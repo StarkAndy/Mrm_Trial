@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.example.ishu.repairproject">
 
     <!--
@@ -9,11 +10,15 @@
     -->
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.INTERNET" />
+=======
+    package="com.example.personalpc.mrm_betaversion">
+>>>>>>> 593495ae380323840fa5ffceb215d33080aa2f64
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+<<<<<<< HEAD
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity" />
@@ -38,6 +43,12 @@
             android:name=".LocationDisplayer"
             android:label="@string/title_activity_location_displayer"></activity>
         <activity android:name=".Sliding">
+=======
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+>>>>>>> 593495ae380323840fa5ffceb215d33080aa2f64
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -46,4 +57,8 @@
         </activity>
     </application>
 
+<<<<<<< HEAD
 </manifest>
+=======
+</manifest>
+>>>>>>> 593495ae380323840fa5ffceb215d33080aa2f64

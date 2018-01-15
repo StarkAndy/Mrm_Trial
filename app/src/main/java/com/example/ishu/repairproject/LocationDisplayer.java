@@ -59,7 +59,7 @@ public class LocationDisplayer extends Fragment implements OnMapReadyCallback {
         //for getting lacation
         locationListener=new LocationListener() {
             @Override
-            public void onLocationChanged(Location location) {
+            public void oiut it nLocationChanged(Location location) {
 
             }
 

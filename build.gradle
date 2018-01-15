@@ -1,11 +1,22 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 buildscript {
+<<<<<<< HEAD
     repositories {
         jcenter()
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:1.5.0'
+=======
+    
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.0.1'
+        
+>>>>>>> 593495ae380323840fa5ffceb215d33080aa2f64
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
@@ -14,6 +25,10 @@ buildscript {
 
 allprojects {
     repositories {
+<<<<<<< HEAD
+=======
+        google()
+>>>>>>> 593495ae380323840fa5ffceb215d33080aa2f64
         jcenter()
     }
 }

@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">RepairProject</string>
     <string name="title_activity_location_displayer">Map</string>
     <string name="drawer_open">Slider Menu Opened</string>
@@ -16,4 +17,7 @@
     <array name="nav_drawer_icons">
         <item>@drawable/student</item>
     </array>
+=======
+    <string name="app_name">Mrm_BetaVersion</string>
+>>>>>>> 593495ae380323840fa5ffceb215d33080aa2f64
 </resources>
