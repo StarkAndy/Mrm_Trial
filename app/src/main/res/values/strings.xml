@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RepairProject</string>
+    <string name="title_activity_location_displayer">Map</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="title_activity_home4">home4</string>
+    <string name="title_activity_home9">home9</string>
+
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/student</item>
+    </array>
+</resources>
